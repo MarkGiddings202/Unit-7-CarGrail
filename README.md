@@ -1,3 +1,15 @@
-# Unit-7-CarGrail
+# CarGrail
+A car application, that will give a variety of suggestions based off of the budget you provide. We want you to be finanically prepared in finding the right car in your price range 
+---
 
-CarGrail is a web application that proves its user with a variety of cars based on their budget.
+Team:
+
+Product Manager/Developer: Mark Giddings
+
+Developer: Delvin Reyes
+
+Developer: Noel Fernandez
+
+Tech Stack:
+
+Frontend: HTML, CSS, JavaScript
