@@ -28,7 +28,7 @@
   > Link your ERD diagram. 
 
 ## Wireframes
-  > Link your wireframes.
+  > (https://www.figma.com/file/lCdLDw9F780pXbUWT7Nkae/Untitled?node-id=0%3A1)
 
 ***Contact:***
 
