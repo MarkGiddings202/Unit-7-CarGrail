@@ -1,0 +1,24 @@
+{
+  "name": "unit-7-cargrail",
+  "version": "1.0.0",
+  "description": "## Heading ##   > CarGrail is a car app that will give its user a variety of suggestions based off of the budget & income you provide. CarGrail's mission is to make it's user be finanically prepared before going car shopping. CarGrail is used to determine the price of cars based on a users finances and helps the user by providing a plethora of cars based specifically on the users    qa.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkGiddings202/Unit-7-CarGrail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkGiddings202/Unit-7-CarGrail/issues"
+  },
+  "homepage": "https://github.com/MarkGiddings202/Unit-7-CarGrail#readme",
+  "dependencies": {
+    "knex": "^2.3.0",
+    "pg": "^8.8.0"
+  }
+}
