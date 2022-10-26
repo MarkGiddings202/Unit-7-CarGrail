@@ -9,9 +9,9 @@ module.exports = {
     client: 'pg',
     connection: {
       database: 'CarGrail',
-      user: 'postgres',
+      user:     'postgres',
       password: ''
-    }
+    },
   },
 
   production: {
