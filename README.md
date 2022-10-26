@@ -2,7 +2,7 @@
 # CarGrail #
 
 ## Heading ##
-  > CarGrail is a car application, that will give its user a variety of suggestions based off of the budget you provide. CarGrail's mission is to make it's user be finanically prepared before going car shopping. CarGrail is used to determine the price of cars based on a users budget and helps the user by providing a plethora of cars based on the budget.
+  > CarGrail is a car app that will give its user a variety of suggestions based off of the budget & income you provide. CarGrail's mission is to make it's user be finanically prepared before going car shopping. CarGrail is used to determine the price of cars based on a users finances and helps the user by providing a plethora of cars based specifically on the users.
   
 
 ## Sub-Heading ##
@@ -10,13 +10,13 @@
   
 
 ## Summary ##
-  > CarGrail's main purpose is for providing information to those seeking it. User can input a budget  of their choice and be presented with cars within their specific budget. The benefit is having information on what you'd like to buy before actually commiting to purchasing a car.
+  > CarGrail's main purpose is providing information to those seeking information on vechicals base on their personal finance. Users can input a budget or income of their choice and be presented with cars within their specific budget/income. The benefit is having information on what you'd like to buy before actually commiting to purchasing a car.
 
 ## Problem ##
-  > Not having information about new cars to buy as well as not knowing what cars can are accessible 
+  > Not having information about new cars to buy, as well as not knowing what cars are accessible to person's specific personal finances.
 
 ## Solution ##
-  > CarGrail solves the problem that new and previous vehical owners have about for finding information to purchase new vechicles within their budget. this solution of providing information potenital car buyers to make a educated car purchase when shopping for a car.
+  > CarGrail solves the problem that new and previous vehical owners have about for finding information to purchase a new vechicle within their budget. This application provides information for potenital car buyers to make a educated car purchase when shopping for a new car.
 
 ## Key Technical Challenge ##
   > What will likely be the most challenging technical hurdle you must overcome in order to complete this project?
